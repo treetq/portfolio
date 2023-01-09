@@ -383,23 +383,6 @@ footer p {
     width: 250px;
   }
 
-  /* section .sect2 img {
-    height: 100vw;
-    width: 280px;
-    right: 0;
-    bottom: -10px;
-    padding: 10px;
-    z-index: 1;
-  } */
-  /* .sect2 .bottomleft {
-    background: #1a1a29;
-    height: 50px;
-    width: 50%;
-    right: 0px;
-    z-index: 2;
-    font-size: 18px;
-  } */
-
   section {
     padding: 2rem;
   }
